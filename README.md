@@ -1,0 +1,1 @@
+This system allows factory employees to calculate the total value of wholesale T-shirt orders, applying discounts based on the quantity of pieces and choosing from different shipping options. The system also validates the quantity of T-shirts and calculates the final order value, considering the selected model and shipping type.
